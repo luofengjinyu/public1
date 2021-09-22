@@ -3,3 +3,7 @@ public class Test1{
     System.out.println("Hello World");
   }
 }
+
+class Deemo1{
+  private int age;
+}
