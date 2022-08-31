@@ -7,5 +7,8 @@
 ---
 
 ```cmake
+//最低CMake版本号
+cmake_minimum_required(version 版本号)
 
+//
 ```
