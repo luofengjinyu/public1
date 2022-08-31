@@ -19,6 +19,7 @@ cmake_minimum_required(version 版本号)
 #### 1.2 定义项目名
 
 ```cmake
+project(<)
 project(项目名)
 ```
 
